@@ -1,0 +1,18 @@
+July 19, 2023
+Today, I learned some Git command lines to connect my local repository with a remote Github repository.
+I have heard about pull and push functions in GitHub several times, but this is my first time using these functions in the command line
+(CMD).
+The usage of command lines to connect local and remote servers surprises me a lot. It reminds me how I used HTTP Request Methods last semester
+to enable communication between clients and servers.
+
+To set the environment, I need to install Git on my computer.
+
+The command lines I have tried are below:
+-git clone URL
+-git commit -m "the message I wanna commit"
+-git push
+-git status
+-git add ./
+-git pull 
+
+-browser-sync start --server --directory --files "*"
